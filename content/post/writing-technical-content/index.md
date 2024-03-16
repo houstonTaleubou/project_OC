@@ -1,6 +1,8 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: Summary of my previous week.
+subtitle: Hello! This post will work perfectly for those who areeager how did I sped my previous.
+
+date: 2024-07-01
 math: true
 image:
   placement: 2

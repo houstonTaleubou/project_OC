@@ -1,0 +1,8 @@
+[submodule "houstonTaleubouNKA.github.io"]
+	path = houstonTaleubouNKA.github.io
+	url = https://github.com/houstonTaleubou/houstonTaleubouNKA.github.io.git
+	branch = main
+[submodule "pulic"]
+	path = pulic
+	url = https://github.com/houstonTaleubou/houstonTaleubouNKA.github.io.git
+	branch = main
